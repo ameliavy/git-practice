@@ -2,4 +2,7 @@
 int main()
 {
     std::cout << "wassup"<< endl;
+      return 0;
+
 }
+
